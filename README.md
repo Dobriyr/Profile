@@ -5,4 +5,4 @@
 <code>🧑‍💻 Languages: C#</code>
 <code>📦 Tech stack: .Net</code>
 <code>💬 telegram: [@dobriyr](https://telegram.me/dobriyr)</code>
-<code>📫 [your-email](mailto:roman.kuzmich@gmail.com)</code>
+<code>📫 [roman.kuzmich@gmail](mailto:roman.kuzmich@gmail.com)</code>
